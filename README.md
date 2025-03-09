@@ -24,26 +24,26 @@
   </tr> -->
   <tr>
   <td>
-    <img src=assets/showcase/1024/fireworks_display-r.gif height="200">
+    <img src=assets/showcase/1024/fireworks_display-r.gif height="160">
   </td>
   <td>
-    <img src=assets/showcase/1024/fireworks_display-r_overlay.gif height="200">
-  </td>
-  </tr>
-  <tr>
-  <td>
-    <img src=assets/showcase/1024/a_beautiful_woman_with_long_hair_and_a_d-r.gif  height="200">
-  </td>
-  <td>
-    <img src=assets/showcase/1024/a_beautiful_woman_with_long_hair_and_a_d-r_overlay.gif  height="200">
+    <img src=assets/showcase/1024/fireworks_display-r_overlay.gif height="160">
   </td>
   </tr>
   <tr>
   <td>
-    <img src=assets/showcase/1024/a_robot_is_walking_through_a_destroyed_c-r.gif  height="200">
+    <img src=assets/showcase/1024/a_beautiful_woman_with_long_hair_and_a_d-r.gif  height="160">
   </td>
   <td>
-    <img src=assets/showcase/1024/a_robot_is_walking_through_a_destroyed_c-r_overlay.gif  height="200">
+    <img src=assets/showcase/1024/a_beautiful_woman_with_long_hair_and_a_d-r_overlay.gif  height="160">
+  </td>
+  </tr>
+  <tr>
+  <td>
+    <img src=assets/showcase/1024/a_robot_is_walking_through_a_destroyed_c-r.gif  height="160">
+  </td>
+  <td>
+    <img src=assets/showcase/1024/a_robot_is_walking_through_a_destroyed_c-r_overlay.gif  height="160">
   </td>
   </tr>
 </table>
@@ -53,28 +53,28 @@
 <table class="center">
   <tr>
   <td>
-    <img src=assets/showcase/512/a_bonfire_is_lit_in_the_middle_of_a_fiel-r.gif height="200">
+    <img src=assets/showcase/512/a_bonfire_is_lit_in_the_middle_of_a_fiel-r.gif height="160">
   </td>
   <td>
-    <img src=assets/showcase/512/a_bonfire_is_lit_in_the_middle_of_a_fiel-r_overlay.gif height="200">
-  </td>
-  </tr>
-
-  <tr>
-  <td>
-    <img src=assets/showcase/512/a_sailboat_sailing_in_rough_seas_with_a_-r.gif height="200">
-  </td>
-  <td>
-    <img src=assets/showcase/512/a_sailboat_sailing_in_rough_seas_with_a_-r_overlay.gif height="200">
+    <img src=assets/showcase/512/a_bonfire_is_lit_in_the_middle_of_a_fiel-r_overlay.gif height="160">
   </td>
   </tr>
 
   <tr>
   <td>
-    <img src=assets/showcase/512/a_woman_looking_out_in_the_rain-r.gif height="200">
+    <img src=assets/showcase/512/a_sailboat_sailing_in_rough_seas_with_a_-r.gif height="160">
   </td>
   <td>
-    <img src=assets/showcase/512/a_woman_looking_out_in_the_rain-r_overlay.gif height="200">
+    <img src=assets/showcase/512/a_sailboat_sailing_in_rough_seas_with_a_-r_overlay.gif height="160">
+  </td>
+  </tr>
+
+  <tr>
+  <td>
+    <img src=assets/showcase/512/a_woman_looking_out_in_the_rain-r.gif height="160">
+  </td>
+  <td>
+    <img src=assets/showcase/512/a_woman_looking_out_in_the_rain-r_overlay.gif height="160">
   </td>
   </tr>
 </table>
@@ -88,19 +88,19 @@
 <table class="center">
   <tr>
   <td>
-    <img src=assets/showcase/256/a_campfire_on_the_beach_and_the_ocean_wa-r.gif height="180">
+    <img src=assets/showcase/256/a_campfire_on_the_beach_and_the_ocean_wa-r.gif height="140">
   </td>
   <td>
-    <img src=assets/showcase/256/a_campfire_on_the_beach_and_the_ocean_wa-r_overlay.gif height="180">
+    <img src=assets/showcase/256/a_campfire_on_the_beach_and_the_ocean_wa-r_overlay.gif height="140">
   </td>
   </tr>
 
   <tr>
   <td>
-    <img src=assets/showcase/256/bear_playing_guitar_happily,_snowing-r.gif height="180">
+    <img src=assets/showcase/256/bear_playing_guitar_happily,_snowing-r.gif height="140">
   </td>
   <td>
-    <img src=assets/showcase/256/bear_playing_guitar_happily,_snowing-r_overlay.gif height="180">
+    <img src=assets/showcase/256/bear_playing_guitar_happily,_snowing-r_overlay.gif height="140">
   </td>
   </tr>
 </table>
@@ -150,19 +150,19 @@
 
   <tr>
   <td>
-    <img src=assets/showcase/interp/clothes_swaying_in_the_wind-r.gif height="150">
+    <img src=assets/showcase/interp/clothes_swaying_in_the_wind-r.gif height="140">
   </td>
   <td>
-    <img src=assets/showcase/interp/clothes_swaying_in_the_wind-r_overlay.gif height="150">
+    <img src=assets/showcase/interp/clothes_swaying_in_the_wind-r_overlay.gif height="140">
   </td>
   </tr>
 
   <tr>
   <td>
-    <img src=assets/showcase/interp/flowers_swaying_in_the_wind-r.gif height="150">
+    <img src=assets/showcase/interp/flowers_swaying_in_the_wind-r.gif height="140">
   </td>
   <td>
-    <img src=assets/showcase/interp/flowers_swaying_in_the_wind-r_overlay.gif height="150">
+    <img src=assets/showcase/interp/flowers_swaying_in_the_wind-r_overlay.gif height="140">
   </td>
   </tr>
 
