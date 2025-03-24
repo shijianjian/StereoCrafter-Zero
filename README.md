@@ -168,3 +168,21 @@
 
 
 </table >
+
+
+### Running
+```
+$ pip install -r requirements.txt
+$ python -m scripts.gradio.i2v_test
+```
+
+### Note:
+
+For VideoDepthAnything, you may need to update line 27 of `video_depth_anything/video_depth.py` to
+```python
+from Video_Depth_Anything.utils.util import compute_scale_and_shift, get_interpolate_frames
+```
+
+### Acknowledgement
+
+Our codebase is based on [DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter).
