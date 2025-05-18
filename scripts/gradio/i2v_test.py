@@ -261,5 +261,6 @@ if __name__ == '__main__':
                 refine_non_mask=refine_non_mask,
                 propagation=propagation,
                 looped=looped,
+                dissolve_step=dissolve_step,
             )
             print('done', video_path)
