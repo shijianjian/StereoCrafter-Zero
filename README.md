@@ -1,6 +1,5 @@
 <div style="display: flex; flex-direction: row;">
-<img src='assets/logo_square.png' style="height:130px;border-radius: 25px;margin: 10px;"></img>
-<h1 style="margin-top:40px;">StereoCrafter-Zero: Zero-Shot Stereo Video Generation with Noisy Restart</h1>
+<h1 style="margin-top:40px;">DissolveStereo: Coarse Depth Injection for Zero-Shot Stereo Video Generation</h1>
 </div>
 <div align="center">
 
